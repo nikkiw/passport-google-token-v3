@@ -1,0 +1,35 @@
+{
+  "name": "passport-google-token_v3",
+  "version": "0.0.1",
+  "description": "Google token authentication strategy (www.googleapis.com/oauth2/v3) for Passport .",
+  "author": {
+    "name": "Nikolay Vlasov",
+    "email": "nikkiw@mail.ru"
+  },
+  "main": "./lib/passport-google-token_v3",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "google",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "readmeFilename": "README.md",
+  "homepage": "https://bitbucket.org/nikkiw/passport-google-token-v3",
+  "_id": "passport-google-token_v3@0.0.1",
+  "_from": "passport-google-token_v3@"
+}
